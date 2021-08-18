@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working as Software Developer at AYESAŞ in Ankara/TURKEY.
+- 🌱 I’m currently learning  `c++`, `python`, `tensorflow` 
+- 📖 I’m working on **image processing** in the Medical Informatics department at METU.
+- 📫 How to reach me: [mtunahans@gmail.com]([mtunahans@gmail.com)
